@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_2() {
 
 	// 1. 변수란? 변할 수 있는 수
 	// 2. 상수 : 변할 수 없는 수
@@ -20,6 +20,8 @@ int main() {
 	int b = 3; // 선언과 동시에 값을 지정하는 것. 초기화
 
 	cout << "a 의 값은 : " << a << " b의 값은 : " << b << endl;
+
+	cout << "a 의 주소는 " << &a << " b의 주소는 " << &b << endl;
 
 	return 0;
 }
