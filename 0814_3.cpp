@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main_3() {
 
 	// 정수형 : 소수부가 없는 수
 	// short, int, long, long long
