@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_4() {
 	// char : 작은 문자형
 	int a = 77;
 	char b = a;

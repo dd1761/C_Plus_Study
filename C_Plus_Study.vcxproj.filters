@@ -30,5 +30,26 @@
     <ClCompile Include="0814_4.cpp">
       <Filter>소스 파일\0814</Filter>
     </ClCompile>
+    <ClCompile Include="0814_5.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_6.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_7.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_8.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_9.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_10.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_11.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
