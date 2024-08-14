@@ -13,5 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\0814">
+      <UniqueIdentifier>{e30237e2-012f-41cd-a3f2-6b4d6a0c6a28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0814_1.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_2.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
