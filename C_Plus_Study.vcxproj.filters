@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\0814">
       <UniqueIdentifier>{e30237e2-012f-41cd-a3f2-6b4d6a0c6a28}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0819">
+      <UniqueIdentifier>{ed011910-88d1-4a42-9c10-9b869fb5bd24}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0814_1.cpp">
@@ -50,6 +53,36 @@
     </ClCompile>
     <ClCompile Include="0814_11.cpp">
       <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0814_12.cpp">
+      <Filter>소스 파일\0814</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_1.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_2.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_3.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_4.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_5.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_6.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_7.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_8.cpp">
+      <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0819_9.cpp">
+      <Filter>소스 파일\0819</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

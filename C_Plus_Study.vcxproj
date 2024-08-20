@@ -130,6 +130,7 @@
     <ClCompile Include="0814_1.cpp" />
     <ClCompile Include="0814_10.cpp" />
     <ClCompile Include="0814_11.cpp" />
+    <ClCompile Include="0814_12.cpp" />
     <ClCompile Include="0814_2.cpp" />
     <ClCompile Include="0814_3.cpp" />
     <ClCompile Include="0814_4.cpp" />
@@ -138,6 +139,15 @@
     <ClCompile Include="0814_7.cpp" />
     <ClCompile Include="0814_8.cpp" />
     <ClCompile Include="0814_9.cpp" />
+    <ClCompile Include="0819_1.cpp" />
+    <ClCompile Include="0819_9.cpp" />
+    <ClCompile Include="0819_2.cpp" />
+    <ClCompile Include="0819_3.cpp" />
+    <ClCompile Include="0819_4.cpp" />
+    <ClCompile Include="0819_5.cpp" />
+    <ClCompile Include="0819_6.cpp" />
+    <ClCompile Include="0819_7.cpp" />
+    <ClCompile Include="0819_8.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
