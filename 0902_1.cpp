@@ -4,7 +4,7 @@ using namespace std;
 
 void helloCPP(int, int);
 
-int main() {
+int main_0902_1() {
 
 	int times, count;
 	cout << "정수를 입력하세요.\n";
