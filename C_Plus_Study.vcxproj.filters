@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\0819">
       <UniqueIdentifier>{ed011910-88d1-4a42-9c10-9b869fb5bd24}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0902">
+      <UniqueIdentifier>{74737cf8-9883-4309-be82-2bbe7cfb63b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0814_1.cpp">
@@ -83,6 +86,9 @@
     </ClCompile>
     <ClCompile Include="0819_9.cpp">
       <Filter>소스 파일\0819</Filter>
+    </ClCompile>
+    <ClCompile Include="0902_1.cpp">
+      <Filter>소스 파일\0902</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

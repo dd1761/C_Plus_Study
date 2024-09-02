@@ -6,7 +6,7 @@ const float PIE = 3.14;
 void cheers(int n);
 float circle(int x);
 
-int main() {
+int main_0819() {
 
 	int a;
 	cout << "하나의 수를 입력하세요" << endl;
@@ -19,6 +19,7 @@ int main() {
 	float c = circle(b);
 	cout << "원의 넒이는 " << c << " 입니다." << endl;
 
+	return 0;
 }
 
 void cheers(int n) {
