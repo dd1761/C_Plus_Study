@@ -21,4 +21,5 @@ int main_0902_6() {
 	float b = square(a);
 	cout << b << endl;
 
+	return 0;
 }

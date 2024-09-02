@@ -1,5 +1,5 @@
-﻿  0902_5.cpp
-  0902_6.cpp
+﻿  0902_6.cpp
 C:\study\C_Plus_Study\C_Plus_Study\0902_6.cpp(21,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0902_8.cpp
   코드를 생성하고 있습니다...
   C_Plus_Study.vcxproj -> C:\study\C_Plus_Study\x64\Debug\C_Plus_Study.exe
