@@ -93,5 +93,17 @@
     <ClCompile Include="0902_2.cpp">
       <Filter>소스 파일\0902</Filter>
     </ClCompile>
+    <ClCompile Include="0902_3.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="0902_4.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="0902_5.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="0902_6.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

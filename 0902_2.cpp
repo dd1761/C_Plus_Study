@@ -6,7 +6,7 @@ const int SIZE = 8;
 
 int sumArr(int*, int*);
 
-int main() {
+int main_0902_2() {
 
 	int arr[SIZE] = { 1, 2, 4, 8, 16, 32, 64, 128 };
 
