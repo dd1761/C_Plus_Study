@@ -6,7 +6,7 @@ using namespace std;
 template <class Any>
 Any sum(Any, Any);
 
-int main() {
+int main_0902() {
 
 	//함수 템플릿
 	//구체적인 데이터형을 포괄할 수 있는 일반형으로 함수를 정의
