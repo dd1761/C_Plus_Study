@@ -1,7 +1,2 @@
-﻿  0902_8.cpp
-  0902_9.cpp
-C:\study\C_Plus_Study\C_Plus_Study\0902_9.cpp(17,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\study\C_Plus_Study\C_Plus_Study\0902_9.cpp(18,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  1202_1.cpp
-  코드를 생성하고 있습니다...
+﻿  func.cpp
   C_Plus_Study.vcxproj -> C:\study\C_Plus_Study\x64\Debug\C_Plus_Study.exe

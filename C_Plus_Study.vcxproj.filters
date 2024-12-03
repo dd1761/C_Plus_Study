@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\0902">
       <UniqueIdentifier>{74737cf8-9883-4309-be82-2bbe7cfb63b7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1203">
+      <UniqueIdentifier>{25573846-3dc0-46de-98b9-8ceeb24dbb54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0814_1.cpp">
@@ -115,7 +118,24 @@
       <Filter>소스 파일\0902</Filter>
     </ClCompile>
     <ClCompile Include="1202_1.cpp">
-      <Filter>소스 파일\0902</Filter>
+      <Filter>소스 파일\1203</Filter>
     </ClCompile>
+    <ClCompile Include="1203_1.cpp">
+      <Filter>소스 파일\1203</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>소스 파일\1203</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="new.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

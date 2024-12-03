@@ -158,6 +158,13 @@
     <ClCompile Include="0902_8.cpp" />
     <ClCompile Include="0902_9.cpp" />
     <ClCompile Include="1202_1.cpp" />
+    <ClCompile Include="1203_1.cpp" />
+    <ClCompile Include="func.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="new.h" />
+    <ClInclude Include="Stock.h" />
+    <ClInclude Include="struct.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
