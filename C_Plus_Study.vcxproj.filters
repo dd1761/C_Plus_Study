@@ -123,6 +123,15 @@
     <ClCompile Include="1203_1.cpp">
       <Filter>소스 파일\1203</Filter>
     </ClCompile>
+    <ClCompile Include="1203_2.cpp">
+      <Filter>소스 파일\1203</Filter>
+    </ClCompile>
+    <ClCompile Include="func_1203_1.cpp">
+      <Filter>소스 파일\1203</Filter>
+    </ClCompile>
+    <ClCompile Include="1203_3.cpp">
+      <Filter>소스 파일\1203</Filter>
+    </ClCompile>
     <ClCompile Include="func.cpp">
       <Filter>소스 파일\1203</Filter>
     </ClCompile>
@@ -135,6 +144,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Stock.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

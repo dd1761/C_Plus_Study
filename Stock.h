@@ -14,12 +14,13 @@ private:
 	void set_total() { total_val = shares * share_val; }
 
 public:
-	void acquire(string, int, float);
+	Stock();
+	Stock(string, int, float);
 	void buy(int, float);
 	void sell(int, float);
 	void update(float);
+	Stock& topval(Stock&);
 	void show();
-	Stock();
 	~Stock();
 };
 #endif // !STOCK
